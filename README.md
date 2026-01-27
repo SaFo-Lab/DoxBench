@@ -40,6 +40,7 @@
 ## 📰 News
 | Date           | Event    |
 |----------------|----------|
+| **2026/01/26** | 🚀 Our work has been accepted by [ICLR 2026](https://openreview.net/forum?id=uBThjlbzxS)! |
 | **2025/10/20** | 🎤 **Oral presentation** at [ICCV 2025 T2FM Workshop](https://web.archive.org/web/20251125025544/https://t2fm-ws.github.io/T2FM-ICCV25/) **(Top 17%)**! [\[Video\]](https://youtu.be/N3umtbOkn8k)|
 | **2025/08/07** | 🎁 We have released our complete dataset on HuggingFace!|
 | **2025/06/09** | 🛠️ We have posted our v3 paper on arXiv, with our source code and partial dataset (L1 and mirror) released on GitHub and HuggingFace.|
