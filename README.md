@@ -2,7 +2,7 @@
     <img src="./logo/dox_color.svg" width="150"/>
 <p>
 
-<h2 align="center"> <a>⛓‍💥 Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models</a></h2>
+<h2 align="center"> <a>[ICLR 2026] Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models</a></h2>
 
 <div align="center">
   <a href="http://doxbench.github.io" target="_blank">
@@ -24,12 +24,12 @@
   <a href="https://arxiv.org/abs/2504.19373">
   <img src="https://img.shields.io/badge/ArXiv-2504.19373-b31b1b.svg?style=flat-square&logo=arxiv" alt="arXiv">
 </a>
-  <a href="https://huggingface.co/datasets/MomoUchi/DoxBenchh">
+  <a href="https://huggingface.co/datasets/MomoUchi/DoxBench">
   <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg?style=flat-square&logo=huggingface" alt="Hugging Face">
 </a>
 
-  <a href="https://github.com/lutianyu2001/DoxBench">
-  <img src="https://img.shields.io/github/stars/lutianyu2001/DoxBench?style=flat-square&logo=github" alt="GitHub stars">
+  <a href="https://github.com/SaFo-Lab/DoxBench">
+  <img src="https://img.shields.io/github/stars/SaFo-Lab/DoxBench?style=flat-square&logo=github" alt="GitHub stars">
 </a>
 
   <img src="https://img.shields.io/badge/Model-Type%3A%20MLRM%20%2F%20MLLM-yellowgreen?style=flat-square">
@@ -40,7 +40,7 @@
 ## 📰 News
 | Date           | Event    |
 |----------------|----------|
-| **2026/01/26** | 🚀 Our work has been accepted by [ICLR 2026](https://openreview.net/forum?id=uBThjlbzxS)! |
+| **2026/01/26** | 🚀 Our work has been accepted by [ICLR 2026](https://openreview.net/forum?id=uBThjlbzxS)!|
 | **2025/10/20** | 🎤 **Oral presentation** at [ICCV 2025 T2FM Workshop](https://web.archive.org/web/20251125025544/https://t2fm-ws.github.io/T2FM-ICCV25/) **(Top 17%)**! [\[Video\]](https://youtu.be/N3umtbOkn8k)|
 | **2025/08/07** | 🎁 We have released our complete dataset on HuggingFace!|
 | **2025/06/09** | 🛠️ We have posted our v3 paper on arXiv, with our source code and partial dataset (L1 and mirror) released on GitHub and HuggingFace.|
